@@ -1,0 +1,28 @@
+_repo: The-Skilful-CookA-Practical-Manual-of-Modern-Experience_29007
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Mary
+    gutenberg_agent_id: '33637'
+    url: http://www.gutenberg.org/2009/agents/33637
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2009-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29007'
+  lccn: '85666835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, English'
+- !lcc 'TX'
+title: 'The Skilful Cook
+
+  A Practical Manual of Modern Experience'
+url: http://www.gutenberg.org/ebooks/29007
